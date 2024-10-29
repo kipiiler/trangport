@@ -13,7 +13,7 @@ export default function Footer() {
             target="_blank"
             rel="noreferrer noopener"
           >
-            <span className="text-orange-400">@kipiiler</span> credits to{" "}
+            <span className="text-orange-400">@trang</span> credits to{" "}
           </a>
           <a
             href="https://github.com/Evavic44/sanity-nextjs-site"
