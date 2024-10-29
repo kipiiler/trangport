@@ -4,7 +4,7 @@ import { getProfile } from "@/sanity/sanity.query";
 import type { ProfileType } from "@/types";
 import Job from "../components/Job";
 
-const fishart =\n"+
+const fishart =
 "          ...                                                      ..............  ....... ....    .\n"+
 "....... ........                 ..          .....    .:-:.       ..................:.............. \n"+
 "....... .........                .. ....:-==+*##**-..-**++=.....   ..:::................... ....    \n"+
