@@ -67,12 +67,12 @@ function NavItems({ resumeObj }: { resumeObj: ProfileResumeType[] }) {
         </Link>
       </li>
       <li className="ml-4 md:ml-0">
-        <Link
+        {/* <Link
           href="/blogs"
           className="font-mono hover:text-gray-400 duration-300"
         >
           /blog
-        </Link>
+        </Link> */}
       </li>
       <li className="ml-4 md:ml-0">
         <Link
