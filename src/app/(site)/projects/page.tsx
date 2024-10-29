@@ -27,10 +27,10 @@ export default async function Project() {
           of my craft, I&apos;d love to chat more. Don&apos;t hesitate to reach
           out to me at{" "}
           <a
-            href={"mailto:hoangng@cs.washington.edu"}
+            href={"mailto:nmtrang.827@gmail.com"}
             className="underline hover:text-orange-500"
           >
-            hoangng@cs.washington.edu
+            nmtrang.827@gmail.com
           </a>
           .
         </p>
