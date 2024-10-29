@@ -63,7 +63,7 @@ function NavItems({ resumeObj }: { resumeObj: ProfileResumeType[] }) {
     <>
       <li className="ml-4 md:ml-0">
         <Link href="/" className="font-mono hover:text-orange-400 duration-300">
-          /..
+          /homePage
         </Link>
       </li>
       <li className="ml-4 md:ml-0">
